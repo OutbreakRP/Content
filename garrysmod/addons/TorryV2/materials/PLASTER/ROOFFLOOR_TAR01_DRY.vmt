@@ -1,0 +1,7 @@
+lightmappedgeneric
+{
+$baseTexture "plaster/rooffloor_tar01"
+$surfaceprop plaster
+$bumpmap "plaster/roofbump-ssbump"
+$ssbump 1
+}

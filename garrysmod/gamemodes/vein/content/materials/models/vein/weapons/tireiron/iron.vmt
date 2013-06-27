@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vein/weapons/tireiron/iron"
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "env_cubemap"
+}

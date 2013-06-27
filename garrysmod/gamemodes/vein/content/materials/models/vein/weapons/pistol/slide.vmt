@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" 				"models\vein\weapons\pistol\slide"
+	"$bumpmap" 					"models\vein\weapons\pistol\slide_n"
+    "$envmap" 					"env_cubemap"
+    "$normalmapalphaenvmapmask" 1
+}	

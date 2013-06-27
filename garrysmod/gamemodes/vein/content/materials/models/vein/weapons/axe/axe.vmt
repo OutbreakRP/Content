@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\vein\weapons\axe\axe"
+	"$bumpmap" "models\vein\weapons\axe\axe_n"
+}

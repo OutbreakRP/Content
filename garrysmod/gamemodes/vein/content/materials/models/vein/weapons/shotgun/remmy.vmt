@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models\vein\weapons\shotgun\remmy"
+	"$envmap" 					"env_cubemap"
+	"$envmapmask" 				"models\vein\weapons\shotgun\remmy_ref"
+	"$normalmapalphaenvmapmask" ".5"
+}

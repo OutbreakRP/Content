@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Vein"
+	"version"			""
+	"up_date"			""
+	"author_name"		"disseminate"
+	"author_email"		""
+	"author_url"		""
+	"info"				"Content for the Vein gamemode."
+	"override"			"0"
+}

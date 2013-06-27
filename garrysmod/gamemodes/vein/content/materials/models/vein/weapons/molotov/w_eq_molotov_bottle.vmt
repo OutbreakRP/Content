@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$baseTexture "models\vein\weapons\molotov/w_eq_molotov_bottle"
+$bumpmap "models\vein\weapons\molotov/w_eq_molotov_bottle_normal"
+
+$phongexponent 1
+$phongfresnelranges "[0.1 0.1 0.1]"
+$phongboost 1
+
+$phong 1
+}

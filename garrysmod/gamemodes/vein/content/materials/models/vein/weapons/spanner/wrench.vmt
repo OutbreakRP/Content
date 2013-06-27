@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vein/weapons/spanner/wrench"
+	"$bumpmap" "models/vein/weapons/spanner/wrench_nm"
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

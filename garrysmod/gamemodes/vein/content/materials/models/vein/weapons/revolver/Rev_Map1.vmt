@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models/vein/weapons/revolver/Rev_Map1"
+	"$bumpmap" "models/vein/weapons/revolver/Rev_Map1_Norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+	

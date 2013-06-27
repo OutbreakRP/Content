@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\vein\weapons\bat\baseball_bat02_diff"
+	"$surfaceprop" "metal"
+    "$bumpmap" "models\vein\weapons\bat\baseball_bat02_norm" 
+	"$phong" "1"
+	"$phongboost" "9"	
+	"$phongfresnelranges"	"[0 3 5]"
+	"$phongexponenttexture" "models\vein\weapons\bat\baseball_bat02_exp"
+}

@@ -1,0 +1,7 @@
+sky
+{
+$basetexture "skybox/sky_day01_09_ldrup"
+$hdrcompressedTexture "skybox/sky_day01_09_hdrup"
+$nofog 1
+$ignorez 1
+}
